@@ -1,4 +1,4 @@
-package com.arafat1419.mylibrary
+package com.arafat1419.mylibrary.toaster
 
 import android.content.Context
 import android.widget.Toast
